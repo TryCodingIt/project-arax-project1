@@ -1,0 +1,23 @@
+{
+    // "vsicons.customIconFolderPath": "/Users/try.coding.it/.vscode/icons/",
+    "vsicons.associations.folders": [
+        {
+        "icon": "subtree",
+        "extensions": ["project-arax-subtree2", "project-arax-subtree1"],
+        "format": "svg"
+        }
+    ],
+    "files.exclude": {
+        "**/.git": false,
+        "**/.git/[^c]*": true,
+        "**/.git/c[^o]*": true,
+        "**/.git/co[^n]*": true,
+        "**/.git/con[^f]*": true,
+        "**/.git/conf[^i]*": true,
+        "**/.git/confi[^g]*": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    }
+}
